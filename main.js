@@ -68,9 +68,6 @@ const config = {
             },
         },
     },
-    font: {
-        size: 20,
-    },
 };
 
 const myChart = new Chart(salesChart, config);
