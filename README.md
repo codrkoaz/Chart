@@ -8,3 +8,4 @@ In this short simple project, I wanted to create an animated chart with the best
 <p align="center">
 
   ![img](https://user-images.githubusercontent.com/51058620/137648469-d47824fa-e453-4a8d-983f-ad9e42102d9a.png)
+  ![chart_spirited_away](https://user-images.githubusercontent.com/51058620/137840109-c6ec92a4-a9d6-425e-b8e4-e38ef168ef63.png)
