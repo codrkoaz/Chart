@@ -27,7 +27,6 @@ const data = {
         datasets: [{
             data: [10.5, 10.1, 10.8, 10.9, 10.3, 11.1, 11.3, 11, 11.8, 11.3],
             label: 'Spirited Away Sales',
-            label: 'Sales',
             fill: true,
             backgroundColor: gradientFill,
             borderColor: '#de70a1',
