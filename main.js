@@ -3,9 +3,9 @@ const salesChart = document.querySelector('#myChart').getContext('2d');
 let delayed;
 
 // Gradient fill
-let gradientFill = salesChart.createLinearGradient(0, 0, 4, 400);
-gradientFill.addColorStop(0, 'rgba(201,211,206,1)');
-gradientFill.addColorStop(1, 'rgba(157,0,43,.8)');
+let gradientFill = salesChart.createLinearGradient(0, 0, 3, 800);
+gradientFill.addColorStop(0, 'rgba(252,252,252,1)');
+gradientFill.addColorStop(1, 'rgba(204,102,102,.7)');
 
 //Labels years for Spirited Away
 const labels = [
@@ -27,11 +27,12 @@ const data = {
         datasets: [{
             data: [10.5, 10.1, 10.8, 10.9, 10.3, 11.1, 11.3, 11, 11.8, 11.3],
             label: 'Spirited Away Sales',
+            label: 'Sales',
             fill: true,
             backgroundColor: gradientFill,
-            borderColor: '#437155',
-            color: '#9D002B',
-            pointBackgroundColor: '#DC8EB5',
+            borderColor: '#de70a1',
+            color: '#9b1c31',
+            pointBackgroundColor: '#4F6440',
             tension: 0.3,
         },
     ],
