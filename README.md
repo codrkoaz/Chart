@@ -25,5 +25,5 @@ In this short simple project, I wanted to create an animated chart with the best
   
   # Todo Ideas
   
-  *Want to add a search bar for other well-known animes
-  *Changing the background to match the anime show or movie with the right colors
+  * Want to add a search bar for other well-known animes
+  * Changing the background to match the anime show or movie with the right colors
