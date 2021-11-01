@@ -11,7 +11,7 @@ In this short simple project, I wanted to create an animated chart with the best
   ![chart_spirited_away](https://user-images.githubusercontent.com/51058620/137840109-c6ec92a4-a9d6-425e-b8e4-e38ef168ef63.png)
 
   
-  # color code
+  # Color Code
   
   
 | Color | Hex | 
