@@ -21,3 +21,9 @@ In this short simple project, I wanted to create an animated chart with the best
 | Chinese Pink |![#DE779F](https://via.placeholder.com/10/DE779F/000000?text=+) `#de779f` | 
 | Fuzzy Wuzzy |![#D0716A](https://via.placeholder.com/10/d0716a/000000?text=+) `#d0716a` |
 | Snow |![#FFFAFA](https://via.placeholder.com/10/fffafa/000000?text=+) `#fffafa` |
+
+  
+  # Todo Ideas
+  
+  *Want to add a search bar for other well-known animes
+  *Changing the background to match the anime show or movie with the right colors
